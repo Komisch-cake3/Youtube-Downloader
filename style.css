@@ -48,8 +48,6 @@ body{
 
 }
 
-
-
 .columnright{
     position: relative;
     bottom:990px;
@@ -118,3 +116,8 @@ body{
 @keyframes grow{
     50%{transform: scale(1.05,1.05)}
 }
+
+.input{
+    
+}
+
